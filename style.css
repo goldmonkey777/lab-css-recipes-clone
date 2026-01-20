@@ -21,9 +21,8 @@ body {
 }
 
 /* STYLES */
-
 body {
-  background-image: url('../images/apple-pie.jpg');
+  background-image: url('apple-pie/images/apple-pie.jpg');
   background-size: cover;
   background-position: center;
   min-height: 100vh;
